@@ -1,1 +1,1 @@
-Ich lerne Gitub und Pycharm
+Ich lerne Github und Pycharm
